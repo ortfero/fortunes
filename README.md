@@ -1,0 +1,2 @@
+# fortunes
+Custom unix fortunes
